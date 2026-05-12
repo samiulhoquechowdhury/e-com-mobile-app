@@ -167,3 +167,93 @@ Suggestions, feedback, and improvements are always welcome.
 Developer: Samiul Chowdhury
 
 This project represents my journey of becoming a professional full-stack mobile application developer.
+
+# 📅 Development Log
+
+## Day 1 — Project Planning
+
+- Planned the overall architecture of the application
+- Decided the tech stack:
+
+  - React Native
+  - Node.js
+  - Express.js
+  - MongoDB
+
+- Created the GitHub repository
+- Initialized the React Native project
+- Started documenting the project journey
+
+### 📚 Learnings
+
+- Understanding project structure planning
+- Setting up development environment
+- Importance of scalable architecture
+
+---
+
+## Day 2 — Navigation Setup
+
+- Installed React Navigation
+- Created bottom tab navigation
+- Created stack navigation flow
+- Designed initial screens:
+
+  - Home Screen
+  - Product Screen
+  - Cart Screen
+  - Profile Screen
+
+### ⚠️ Challenges Faced
+
+- Navigation dependency conflicts
+- Screen layout issues
+
+### ✅ Solutions
+
+- Fixed package version mismatch
+- Improved navigation structure
+
+---
+
+## 🔥 Current Progress
+
+- [x] Project Initialization
+- [x] Navigation Setup
+- [ ] Authentication System
+- [ ] Backend API
+- [ ] Product Listing
+- [ ] Cart Functionality
+- [ ] Payment Integration
+
+---
+
+# 🗺️ Roadmap
+
+## Phase 1 — Foundation
+
+- Project setup
+- Folder structure
+- Navigation
+- UI setup
+
+## Phase 2 — Frontend Development
+
+- Authentication UI
+- Product screens
+- Cart system
+- Profile management
+
+## Phase 3 — Backend Development
+
+- REST API
+- Database integration
+- Authentication
+- Admin APIs
+
+## Phase 4 — Advanced Features
+
+- Payments
+- Notifications
+- Performance optimization
+- Deployment
