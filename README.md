@@ -220,7 +220,7 @@ This project represents my journey of becoming a professional full-stack mobile 
 
 - [x] Project Initialization
 - [x] Navigation Setup
-- [ ] Authentication System
+- [x] Authentication System
 - [ ] Backend API
 - [ ] Product Listing
 - [ ] Cart Functionality
